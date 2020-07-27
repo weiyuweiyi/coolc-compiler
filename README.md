@@ -49,6 +49,9 @@
 
 |目标|文件|
 |-|-|
+cool/assignments/PA2/cool.flex就是答案
+把makefile里的路径改一下就能make运行
+能够生成一个词法分析器，然后会执行PA2里面的test.cl生成结果
 
 
 ## 第五？、六次实验
